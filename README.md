@@ -1,7 +1,5 @@
 # BF-practice-repo
 
-## One thing About Me
+## One thing About Me - Sean Zhang
 
-Sean Zhang
-
-I am big fan of Marvel movies.
+I am a coffee lover.
