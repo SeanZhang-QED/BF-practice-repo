@@ -4,4 +4,4 @@
 
 Sean Zhang
 
-I a am big fan of Marvel movies.
+I am big fan of Marvel movies.
